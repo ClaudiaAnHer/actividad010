@@ -10,7 +10,7 @@ Algoritmo sin_titulo
 		Escribir "la suma es " suma
 	Fin Si
 	Si operacion = "-" Entonces
-		resta<- a-b
-		Escribir "la resta es "
+		restar<- a-b
+		Escribir "la resta es " restar
 	Fin Si
 FinAlgoritmo
